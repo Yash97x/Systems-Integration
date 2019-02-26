@@ -9,4 +9,4 @@ There are 4 Different branches
   - RabbitMQ
   - API/DMZ
   
-  These branches contain different files related to its cluster. To view different the different clusters, just click on branch and select the specific branch that you would like to see.
+  These branches contain different files related to its cluster. To view different the different clusters, just click on branch in the upper left hand corner and select the specific branch that you would like to see.
